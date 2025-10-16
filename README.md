@@ -18,4 +18,4 @@ This project is a simple console-based implementation of the classic game, desig
 3. Run the game in your terminal:
 
 ```bash
-python rock_paper_scissors.py
+python Rock_Paper_Scissors.py
